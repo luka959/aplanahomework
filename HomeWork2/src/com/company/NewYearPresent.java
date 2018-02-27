@@ -66,6 +66,7 @@ public class NewYearPresent {
             }
 
             shortInfo += entry.getValue().size() + " конфет типа " + entry.getKey();
+
         }
         return shortInfo;
     }
